@@ -154,24 +154,6 @@
     overflow: hidden;
 }
 
-@media (max-width: 1200px) {
-    .masonry {
-        columns: 10;
-    }
-}
-
-@media (max-width: 740px) {
-    .masonry {
-        columns: 6;
-    }
-}
-
-@media (max-width: 480px) {
-    .masonry {
-        columns: 4;
-    }
-}
-
 .masonry .masonry-item {
     display: inline-block;
     position: relative;
