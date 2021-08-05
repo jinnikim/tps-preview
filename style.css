@@ -98,6 +98,10 @@
     font-size: em;
 }
 
+.empty {
+  color: #ff6464;
+}
+
 
 :root {
   counter-reset: masonry;
