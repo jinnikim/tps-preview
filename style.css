@@ -71,6 +71,20 @@
     color:azure;
 }
 
+.intro {
+  font-weight: 300;
+  font-size: 1.2em;
+  line-height: 1.6em;
+  margin-bottom: 120px;
+  color:azure;
+  word-break: keep-all;
+}
+
+a:link, a:visited {color:#3182f6; text-decoration: none;} 
+a:hover { color:#105dc9; text-decoration: none;} 
+a { display: inline;}
+
+
 .all {
   padding: 2em;
   background-color: #17171c;
@@ -83,7 +97,7 @@
     width: 100px;
     height: 100px;
     vertical-align: middle;
-    line-height: 108px;
+    line-height: 106px;
     text-align: center;
     margin: 5px;
   }
@@ -91,11 +105,11 @@
 .desc {
     text-align: center;
     color: #3182f6;
-    font-weight: 600;
+    font-weight: 500;
     width: 100px;
     height: 60px;
-    padding: 10px 0px;
-    font-size: em;
+    margin: 10px 5px;
+    font-size: 0.8em;
 }
 
 .empty {
