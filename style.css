@@ -1,54 +1,54 @@
 @font-face {
     font-family: 'TossProductSans';
-    src: url('https://static.toss.im/fonts/toss-product-sans/TossProductSans07Heavy.woff2')
+    src: url('https://static.toss.im/fonts/toss-product-sans-test/test2111/TossProductSansOTF-Heavy.woff2')
         format('woff2'),
-      url('https://static.toss.im/fonts/toss-product-sans/TossProductSans07Heavy.woff') format('woff');
+      url('https://static.toss.im/fonts/toss-product-sans-test/test2111/TossProductSansOTF-Heavy.woff') format('woff');
     font-weight: 900;
   }
   @font-face {
     font-family: 'TossProductSans';
-    src: url('https://static.toss.im/fonts/toss-product-sans/TossProductSans06ExtraBold.woff2')
+    src: url('https://static.toss.im/fonts/toss-product-sans-test/test2111/TossProductSansOTF-Extrabold.woff2')
         format('woff2'),
-      url('https://static.toss.im/fonts/toss-product-sans/TossProductSans06ExtraBold.woff')
+      url('https://static.toss.im/fonts/toss-product-sans-test/test2111/TossProductSansOTF-Extrabold.woff')
         format('woff');
     font-weight: 800;
   }
   @font-face {
     font-family: 'TossProductSans';
-    src: url('https://static.toss.im/fonts/toss-product-sans/TossProductSans05Bold.woff2')
+    src: url('https://static.toss.im/fonts/toss-product-sans-test/test2111/TossProductSansOTF-Bold.woff2')
         format('woff2'),
-      url('https://static.toss.im/fonts/toss-product-sans/TossProductSans05Bold.woff') format('woff');
+      url('https://static.toss.im/fonts/toss-product-sans-test/test2111/TossProductSansOTF-Bold.woff') format('woff');
     font-weight: 700;
   }
   @font-face {
     font-family: 'TossProductSans';
-    src: url('https://static.toss.im/fonts/toss-product-sans/TossProductSans04SemiBold.woff2')
+    src: url('https://static.toss.im/fonts/toss-product-sans-test/test2111/TossProductSansOTF-Semibold.woff2')
         format('woff2'),
-      url('https://static.toss.im/fonts/toss-product-sans/TossProductSans04SemiBold.woff')
+      url('https://static.toss.im/fonts/toss-product-sans-test/test2111/TossProductSansOTF-Semibold.woff')
         format('woff');
     font-weight: 600;
   }
   @font-face {
     font-family: 'TossProductSans';
-    src: url('https://static.toss.im/fonts/toss-product-sans/TossProductSans03Medium.woff2')
+    src: url('https://static.toss.im/fonts/toss-product-sans-test/test2111/TossProductSansOTF-Medium.woff2')
         format('woff2'),
-      url('https://static.toss.im/fonts/toss-product-sans/TossProductSans03Medium.woff')
+      url('https://static.toss.im/fonts/toss-product-sans-test/test2111/TossProductSansOTF-Medium.woff')
         format('woff');
     font-weight: 500;
   }
   @font-face {
     font-family: 'TossProductSans';
-    src: url('https://static.toss.im/fonts/toss-product-sans/TossProductSans02Regular.woff2')
+    src: url('https://static.toss.im/fonts/toss-product-sans-test/test2111/TossProductSansOTF-Regular.woff2')
         format('woff2'),
-      url('https://static.toss.im/fonts/toss-product-sans/TossProductSans02Regular.woff')
+      url('https://static.toss.im/fonts/toss-product-sans-test/test2111/TossProductSansOTF-Regular.woff')
         format('woff');
     font-weight: 400;
   }
   @font-face {
     font-family: 'TossProductSans';
-    src: url('https://static.toss.im/fonts/toss-product-sans/TossProductSans01Light.woff2')
+    src: url('https://static.toss.im/fonts/toss-product-sans-test/test2111/TossProductSansOTF-Light.woff2')
         format('woff2'),
-      url('https://static.toss.im/fonts/toss-product-sans/TossProductSans01Light.woff') format('woff');
+      url('hhttps://static.toss.im/fonts/toss-product-sans-test/test2111/TossProductSansOTF-Light.woff') format('woff');
     font-weight: 300;
   }
 
@@ -63,6 +63,13 @@
   font-size: 68px;
   color: azure; 
   }
+
+.md { 
+  font-weight: 500; 
+  font-size: 40px;
+  color: azure; 
+  }
+
 
 .title {
     font-weight: 700;
